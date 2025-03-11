@@ -1,0 +1,62 @@
+'#' is an others
+'include' is a keyword
+'<' is an others
+'stdio.h' is a keyword
+'>' is an others
+
+'int' is a keyword
+' ' is an others
+'main' is a keyword
+'(' is an others
+')' is an others
+'{' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'int' is a keyword
+' ' is an others
+'a' is an identifier
+'=' is an others
+'2' is an others
+'0' is an others
+';' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'int' is a keyword
+' ' is an others
+'b' is an identifier
+'=' is an others
+'3' is an others
+'0' is an others
+';' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'printf' is an identifier
+'(' is an others
+'"' is an others
+'BANGLADESH' is an identifier
+'\' is an others
+'n' is an identifier
+'"' is an others
+')' is an others
+';' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'return' is a keyword
+' ' is an others
+'0' is an others
+';' is an others
+
+'}' is an others
+# of keyword is 7

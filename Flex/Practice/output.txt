@@ -1,0 +1,101 @@
+'#' is an others
+'include' is a keyword
+'<' is an others
+'stdio.h' is a keyword
+'>' is an others
+
+'int' is a keyword
+' ' is an others
+'main' is a keyword
+'(' is an others
+')' is an others
+'{' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'int' is a keyword
+' ' is an others
+'num' is an identifier
+'=' is an others
+'1' is an others
+'0' is an others
+';' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'float' is a keyword
+' ' is an others
+'val' is an identifier
+'=' is an others
+'1' is an others
+'0' is an others
+'.' is an others
+'3' is an others
+'4' is an others
+';' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'printf' is an identifier
+'(' is an others
+'"' is an others
+'Given' is an identifier
+' ' is an others
+'integer' is an identifier
+' ' is an others
+'value' is an identifier
+' ' is an others
+'is' is an identifier
+' ' is an others
+'%' is an others
+'d' is an identifier
+'\' is an others
+'n' is an identifier
+'"' is an others
+',' is an others
+'num' is an identifier
+')' is an others
+';' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'printf' is an identifier
+'(' is an others
+'"' is an others
+'Given' is an identifier
+' ' is an others
+'float' is a keyword
+' ' is an others
+'value' is an identifier
+' ' is an others
+'is' is an identifier
+' ' is an others
+'%' is an others
+'f' is an identifier
+'\' is an others
+'n' is an identifier
+'"' is an others
+',' is an others
+'val' is an identifier
+')' is an others
+';' is an others
+
+' ' is an others
+' ' is an others
+' ' is an others
+' ' is an others
+'return' is a keyword
+' ' is an others
+'0' is an others
+';' is an others
+
+'}' is an others
+# of keyword is 8
